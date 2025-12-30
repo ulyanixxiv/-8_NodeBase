@@ -1,0 +1,28 @@
+# Зависимости
+node_modules/
+npm-debug.log*
+
+# Файлы окружения
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Результаты тестов
+bcrypt-results.json
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Резервные копии
+*-backup.js
+*-old.js
+*-new.js
+
+# Логи
+*.log
